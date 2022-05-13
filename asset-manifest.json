@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/movietheater-react-js/static/css/main.f36cbd8c.css",
+    "main.js": "/movietheater-react-js/static/js/main.0741d91b.js",
+    "static/js/787.0f0e40d0.chunk.js": "/movietheater-react-js/static/js/787.0f0e40d0.chunk.js",
+    "static/media/starwars.jpg": "/movietheater-react-js/static/media/starwars.8886d1000e1c11ac05aa.jpg",
+    "static/media/darkforce.jpg": "/movietheater-react-js/static/media/darkforce.9d341c2179c358780b0c.jpg",
+    "static/media/main.jpg": "/movietheater-react-js/static/media/main.89f194789870244229b8.jpg",
+    "static/media/spiderman.jpg": "/movietheater-react-js/static/media/spiderman.f262909aec9712cc3b70.jpg",
+    "static/media/ghost.jpg": "/movietheater-react-js/static/media/ghost.c7883b5caeab50f978f3.jpg",
+    "static/media/uncharted.jpg": "/movietheater-react-js/static/media/uncharted.066aa1952fe18be55520.jpg",
+    "static/media/sonic.jpg": "/movietheater-react-js/static/media/sonic.f5073d8cc2cc29985abe.jpg",
+    "static/media/drstrange.jpg": "/movietheater-react-js/static/media/drstrange.c08c37fd96aeb851f4fa.jpg",
+    "static/media/batman.jpg": "/movietheater-react-js/static/media/batman.1407e56f4f32c18db1a9.jpg",
+    "static/media/haunting.jpg": "/movietheater-react-js/static/media/haunting.0407d7806686e4f3a914.jpg",
+    "static/media/crowvalley.jpg": "/movietheater-react-js/static/media/crowvalley.6758f866310d79b47e63.jpg",
+    "static/media/thetwin.jpg": "/movietheater-react-js/static/media/thetwin.5f2693dac6721c392e53.jpg",
+    "static/media/fresh.jpg": "/movietheater-react-js/static/media/fresh.22dd4c207596d617b485.jpg",
+    "static/media/scream.jpg": "/movietheater-react-js/static/media/scream.a0d8c0bf7e6c810c7eb5.jpg",
+    "static/media/umma.jpg": "/movietheater-react-js/static/media/umma.6be95a7d7fa35ce66c68.jpg",
+    "index.html": "/movietheater-react-js/index.html",
+    "main.f36cbd8c.css.map": "/movietheater-react-js/static/css/main.f36cbd8c.css.map",
+    "main.0741d91b.js.map": "/movietheater-react-js/static/js/main.0741d91b.js.map",
+    "787.0f0e40d0.chunk.js.map": "/movietheater-react-js/static/js/787.0f0e40d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f36cbd8c.css",
+    "static/js/main.0741d91b.js"
+  ]
+}
